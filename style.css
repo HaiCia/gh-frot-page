@@ -1,0 +1,29 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  background-image: url("./assets/fb.jpg");
+  background-color: peachpuff;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+
+}
+
+.meinfo {
+  background-color: rgba(231, 226, 216, 0.8);
+  width: 50%;
+  margin: 3em 3em ;
+  padding: 1em;
+  text-align: center;
+}
+
+.bi {
+  color: black;
+}
+
+ul {
+  padding: 0 2em;
+}
